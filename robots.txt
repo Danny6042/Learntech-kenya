@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /js/
+Disallow: /css/
+
+Sitemap: https://danny6042.github.io/Learntech--kenya/sitemap.xml
+
+Host: https://danny6042.github.io
